@@ -10,4 +10,4 @@ hooks:
       timeout: 900
   AfterInstall:
     - location: \after-install.bat
-  	  timeout: 900
+      timeout: 900
